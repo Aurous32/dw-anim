@@ -44,7 +44,7 @@ Section:NewButton("Cosmo", "Homosexual cake.", function()
     character.Animate.Ability.AnimationId = "rbxassetid://18611350621"
 end)
 
-Section:NewButton("Dandy", "Gets his items from the trashbin.", function()
+Section:NewButton("Dandy", "#1 Gunk Seller.", function()
     character.Animate.idle.Animation1.AnimationId = "rbxassetid://16496520991"
     character.Animate.idle.Animation2.AnimationId = "rbxassetid://16496520991"
     character.Animate.run.RunAnim.AnimationId = "rbxassetid://16496812530"
@@ -160,7 +160,124 @@ end)
 
 local Tab = Window:NewTab("Twisteds")
 
-local Section = Tab:NewSection("Currently only has Twisted Toodles atm.")
+Section:NewButton("Twisted Astro", "nighty night", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://17616899088"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://17616899088"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://17617489384"
+end)
+
+Section:NewButton("Twisted Boxten", "arm head", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://17173910857"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://17173910857"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://17174260770"
+end)
+
+Section:NewButton("Twisted Boxten", "arm head", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://17638507046"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://17638507046"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://17638734882"
+end)
+
+Section:NewButton("Twisted Cosmo", "EVIL gay cake", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://18682187542"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://18682187542"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://18682530957"
+end)
+
+Section:NewButton("Twisted Dandy", "*starts dancing*", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://17515694121"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://17515694121"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://17516071317"
+end)
+
+Section:NewButton("Twisted Finn", "Satoru Gojo", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://18740791780"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://18740791780"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://18741061111"
+end)
+
+Section:NewButton("Twisted Flutter", "It's a wonderful day for pie!", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://18226198149"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://18226198149"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://18239928544"
+end)
+
+Section:NewButton("Twisted Gigi", "muffet undertale", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://138817858272409"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://138817858272409"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://124691439016513"
+end)
+
+Section:NewButton("Twisted Glisten", "EVIL zestfest", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://18820870445"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://18820870445"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://18833020404"
+end)
+
+Section:NewButton("Twisted Goob", "FUCK YOU!!!!", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://17269810470"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://17269810470"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://17270072413"
+    character.Animate.Ability.AnimationId = "rbxassetid://18989147764"
+end)
+
+Section:NewButton("Twisted Poppy", "more like poopy!! 😂😂😂", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://17000127805"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://17000127805"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://17000654428"
+end)
+
+Section:NewButton("Twisted Razzle & Dazzle", "why would you even use this lmao", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://18987852729"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://18987852729"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://17451039864"
+    character.Animate.Ability.AnimationId = "rbxassetid://17642301816"
+end)
+
+Section:NewButton("Twisted Rodger", "why would you even use this lmao 2", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://17108594427"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://17108594427"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://17097874814"
+    character.Animate.Ability.AnimationId = "rbxassetid://17163053135"
+end)
+
+Section:NewButton("Twisted Scraps", "FUCK YOU!!! 2", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://17573097161"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://17573097161"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://17574064271"
+    character.Animate.Ability.AnimationId = "rbxassetid://17579004043"
+end)
+
+Section:NewButton("Twisted Shrimpo", "expired seafood", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://17592191827"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://17592191827"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://17592396609"
+end)
+
+Section:NewButton("Twisted Sprout", "evil gay strawberry", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://18698546825"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://18698546825"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://8699674490"
+    character.Animate.Ability.AnimationId = "rbxassetid://18699836509"
+end)
+
+Section:NewButton("Twisted Teagan", "im gonna shank you mate", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://18196187882"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://18196187882"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://18197017631"
+end)
+
+Section:NewButton("Twisted Tisha", "sweep sweep sweep", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://18167087346"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://18167087346"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://18167378530"
+end)
+
+Section:NewButton("Twisted Vee", "hoe", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://17320732816"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://17320732816"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://17322657144"
+end)
 
 Section:NewButton("Twisted Toodles", "rabies child", function()
     character.Animate.idle.Animation1.AnimationId = "rbxassetid://17648960939"
@@ -168,10 +285,4 @@ Section:NewButton("Twisted Toodles", "rabies child", function()
     character.Animate.run.RunAnim.AnimationId = "rbxassetid://91029796934547"
     character.Animate.Decode.Animation1.AnimationId = "rbxassetid://17506059864"
     character.Animate.Ability.AnimationId = "rbxassetid://17630950280"
-end)
-
-local Tab = Window:NewTab("Settings")
-
-Section:NewKeybind("Toggle UI", "toggle", Enum.KeyCode.LeftControl, function()
-	Library:ToggleUI()
 end)
