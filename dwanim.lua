@@ -162,7 +162,7 @@ local Tab = Window:NewTab("Twisteds")
 
 local Section = Tab:NewSection("Twisted Animations")
 
-local Section = Tab:NewSection("You cant use Twisted Toodles or Twisted Gigi's animations in lobbies.")
+Section:NewLabel("You will get kicked if you use Twisted Toodles or Twisted Gigi's in lobbies")
 
 Section:NewButton("Twisted Astro", "nighty night", function()
     character.Animate.idle.Animation1.AnimationId = "rbxassetid://17616899088"
