@@ -162,10 +162,6 @@ local Tab = Window:NewTab("Twisteds")
 
 local Section = Tab:NewSection("Twisted Animations")
 
-Section:NewTextBox("You will get kicked in public lobbies if you use T. Toodles or T. Gigi", "yeah", function(txt)
-	print(txt)
-end)
-
 Section:NewButton("Twisted Astro", "nighty night", function()
     character.Animate.idle.Animation1.AnimationId = "rbxassetid://17616899088"
     character.Animate.idle.Animation2.AnimationId = "rbxassetid://17616899088"
