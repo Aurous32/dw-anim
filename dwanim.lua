@@ -174,7 +174,7 @@ Section:NewButton("Twisted Boxten", "arm head", function()
     character.Animate.run.RunAnim.AnimationId = "rbxassetid://17174260770"
 end)
 
-Section:NewButton("Twisted Brightney", "weird lookin lamp", function()
+Section:NewButton("Twisted Boxten", "arm head", function()
     character.Animate.idle.Animation1.AnimationId = "rbxassetid://17638507046"
     character.Animate.idle.Animation2.AnimationId = "rbxassetid://17638507046"
     character.Animate.run.RunAnim.AnimationId = "rbxassetid://17638734882"
@@ -202,6 +202,12 @@ Section:NewButton("Twisted Flutter", "It's a wonderful day for pie!", function()
     character.Animate.idle.Animation1.AnimationId = "rbxassetid://18226198149"
     character.Animate.idle.Animation2.AnimationId = "rbxassetid://18226198149"
     character.Animate.run.RunAnim.AnimationId = "rbxassetid://18239928544"
+end)
+
+Section:NewButton("Twisted Gigi", "muffet undertale", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://138817858272409"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://138817858272409"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://124691439016513"
 end)
 
 Section:NewButton("Twisted Glisten", "EVIL zestfest", function()
@@ -273,4 +279,12 @@ Section:NewButton("Twisted Vee", "hoe", function()
     character.Animate.idle.Animation1.AnimationId = "rbxassetid://17320732816"
     character.Animate.idle.Animation2.AnimationId = "rbxassetid://17320732816"
     character.Animate.run.RunAnim.AnimationId = "rbxassetid://17322657144"
+end)
+
+Section:NewButton("Twisted Toodles", "rabies child", function()
+    character.Animate.idle.Animation1.AnimationId = "rbxassetid://17648960939"
+    character.Animate.idle.Animation2.AnimationId = "rbxassetid://17648960939"
+    character.Animate.run.RunAnim.AnimationId = "rbxassetid://91029796934547"
+    character.Animate.Decode.Animation1.AnimationId = "rbxassetid://17506059864"
+    character.Animate.Ability.AnimationId = "rbxassetid://17630950280"
 end)
