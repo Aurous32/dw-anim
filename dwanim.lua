@@ -174,7 +174,7 @@ Section:NewButton("Twisted Boxten", "arm head", function()
     character.Animate.run.RunAnim.AnimationId = "rbxassetid://17174260770"
 end)
 
-Section:NewButton("Twisted Boxten", "arm head", function()
+Section:NewButton("Twisted Brightney", "weird lookin lamp", function()
     character.Animate.idle.Animation1.AnimationId = "rbxassetid://17638507046"
     character.Animate.idle.Animation2.AnimationId = "rbxassetid://17638507046"
     character.Animate.run.RunAnim.AnimationId = "rbxassetid://17638734882"
