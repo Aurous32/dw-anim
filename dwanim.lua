@@ -162,6 +162,8 @@ local Tab = Window:NewTab("Twisteds")
 
 local Section = Tab:NewSection("Twisted Animations")
 
+local Section = Tab:NewSection("You cant use Twisted Toodles or Twisted Gigi's animations in lobbies.")
+
 Section:NewButton("Twisted Astro", "nighty night", function()
     character.Animate.idle.Animation1.AnimationId = "rbxassetid://17616899088"
     character.Animate.idle.Animation2.AnimationId = "rbxassetid://17616899088"
@@ -174,7 +176,7 @@ Section:NewButton("Twisted Boxten", "arm head", function()
     character.Animate.run.RunAnim.AnimationId = "rbxassetid://17174260770"
 end)
 
-Section:NewButton("Twisted Brightney", "weird lookin lamp", function()
+Section:NewButton("Twisted Boxten", "arm head", function()
     character.Animate.idle.Animation1.AnimationId = "rbxassetid://17638507046"
     character.Animate.idle.Animation2.AnimationId = "rbxassetid://17638507046"
     character.Animate.run.RunAnim.AnimationId = "rbxassetid://17638734882"
